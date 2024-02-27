@@ -1,0 +1,102 @@
+[
+    {
+        "name": "João da Silva",
+        "email": "joao.silva@example.com",
+        "salary": 3500.00,
+        "state": "SP",
+        "company": "Company ABC",
+        "age": 30,
+        "gender": "M",
+        "cpf": "123.456.789-10"
+    },
+    {
+        "name": "Maria Oliveira",
+        "email": "maria.oliveira@example.com",
+        "salary": 4200.00,
+        "state": "RJ",
+        "company": "Company XYZ",
+        "age": 28,
+        "gender": "",
+        "cpf": "987.654.321-01"
+    },
+    {
+        "name": "Carlos Santos",
+        "email": "carlos.santos@example.com",
+        "salary": 2800.00,
+        "state": "MG",
+        "company": "Company 123",
+        "age": 35,
+        "gender": "M",
+        "cpf": "456.789.123-45"
+    },
+    {
+        "name": "Ana Souza",
+        "email": "ana.souza@example.com",
+        "salary": 3800.00,
+        "state": "RS",
+        "company": "Company XYZ",
+        "age": 25,
+        "gender": "",
+        "cpf": "234.567.890-21"
+    },
+    {
+        "name": "Pedro Fernandes",
+        "email": "pedro.fernandes@example.com",
+        "salary": 4500.00,
+        "state": "BA",
+        "company": "Company 123",
+        "age": 40,
+        "gender": "M",
+        "cpf": "876.543.210-98"
+    },
+    {
+        "name": "Juliana Costa",
+        "email": "juliana.costa@example.com",
+        "salary": 3200.00,
+        "state": "SP",
+        "company": "Company ABC",
+        "age": 33,
+        "gender": "F",
+        "cpf": "543.210.987-65"
+    },
+    {
+        "name": "Rafaela Santos",
+        "email": "rafaela.santos@example.com",
+        "salary": 3900.00,
+        "state": "MG",
+        "company": "Company XYZ",
+        "age": 27,
+        "gender": "F",
+        "cpf": "789.012.345-67"
+    },
+    {
+        "name": "Bruno Lima",
+        "email": "bruno.lima@example.com",
+        "salary": 3000.00,
+        "state": "RJ",
+        "company": "Company 123",
+        "age": 31,
+        "gender": "M",
+        "cpf": "321.654.987-43"
+    },
+    {
+        "name": "Fernanda Pereira",
+        "email": "fernanda.pereira@example.com",
+        "salary": 3700.00,
+        "state": "SP",
+        "company": "Company XYZ",
+        "age": 29,
+        "gender": "F",
+        "cpf": "678.901.234-56"
+    },
+    {
+        "name": "Gustavo Silva",
+        "email": "gustavo.silva@example.com",
+        "salary": 4100.00,
+        "state": "MG",
+        "company": "Company ABC",
+        "age": 36,
+        "gender": "M",
+        "cpf": "210.987.654-32"
+    }
+  ]
